@@ -1,9 +1,9 @@
 # Snakes and Ladders Game
 
-Welcome to a simplified version of Snakes and Ladders implemented in Go. <br>
-In this version, there are no snakes or ladders (yet), but you can enjoy the game of rolling the dice and moving across the board. <br>
+Welcome to Snakes and Ladders implemented in Go. <br>
+This version is a bit under construction, there are no snakes nor ladders (yet), but you can enjoy the game of rolling the dice and moving across the board. <br>
 I'm working on this project to practice Go fundamentals I've learned from the book "For the love of Go" by John Arundel. Highly recommend it.
-
+<br> The test driven approach I learned from this book helped me quickly identify the state of the board that I need to have and how do I go about the game loop.
 ## Table of Contents
 
 - [Installation](#installation)
